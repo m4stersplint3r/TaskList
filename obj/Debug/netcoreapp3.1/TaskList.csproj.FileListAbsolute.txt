@@ -1,0 +1,13 @@
+D:\Bootcamp\Labs\TaskList\bin\Debug\netcoreapp3.1\TaskList.exe
+D:\Bootcamp\Labs\TaskList\bin\Debug\netcoreapp3.1\TaskList.deps.json
+D:\Bootcamp\Labs\TaskList\bin\Debug\netcoreapp3.1\TaskList.runtimeconfig.json
+D:\Bootcamp\Labs\TaskList\bin\Debug\netcoreapp3.1\TaskList.runtimeconfig.dev.json
+D:\Bootcamp\Labs\TaskList\bin\Debug\netcoreapp3.1\TaskList.dll
+D:\Bootcamp\Labs\TaskList\bin\Debug\netcoreapp3.1\TaskList.pdb
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.csprojAssemblyReference.cache
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.AssemblyInfoInputs.cache
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.AssemblyInfo.cs
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.dll
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.pdb
+D:\Bootcamp\Labs\TaskList\obj\Debug\netcoreapp3.1\TaskList.genruntimeconfig.cache
